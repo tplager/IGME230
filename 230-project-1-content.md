@@ -10,6 +10,8 @@ The player aims their dragon's fire blasts using mouse controls and the left mou
 
 The knights below the player's dragon will be shooting arrows and possible throwing spears at the dragon in an attempt to bring it down. 
 
+There will be only one "level" in the game and it is somewhat like Google's T-Rex game except the dragon in this game can slow down and speed up their dragon (by moving it left and right) to avoid arrows and spears. 
+
 ## Genre   
 * Flight
 * Shooter
