@@ -21,8 +21,8 @@ The player is attempting to reach the end of the game to retreive the dragon's g
 attempt to kill as many knights as possible while doing so.
 
 ## Aesthetics
-Pixel Art
-Looped Soundtrack with sounds for hitting enemies, enemies firing, and start & end game
+* Pixel Art
+* Looped Soundtrack with sounds for hitting enemies, enemies firing, and start & end game
 
 ## Gameplay
 The player will use WASD to move their dragon up and down around the screen as it scrolls to the right.
