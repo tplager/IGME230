@@ -1,11 +1,20 @@
 # Dragon Fire
 Play as your favorite species of flying reptile while dodging the soaring arrows of the knights of the realm and blasting them with burning flames in an effort to retrieve your gold. 
 
+## Summary
+The player plays as a dragon flying over the heads of the royal knights below. 
+
+The player has the ability to move the dragon up, down, left, and right across the screen (the dragon will not wrap across the screen in any direction for semantic reasons).
+
+The player aims their dragon's fire blasts using mouse controls and the left mouse button to actually shoot these fire blasts. 
+
+The knights below the player's dragon will be shooting arrows and possible throwing spears at the dragon in an attempt to bring it down. 
+
 ## Genre   
 * Flight
 * Shooter
 * Arcade
-
+* Side-scroller
 
 ## Platform
 Desktop Only
